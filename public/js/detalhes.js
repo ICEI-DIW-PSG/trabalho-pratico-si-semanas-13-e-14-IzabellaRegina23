@@ -1,6 +1,6 @@
 const params = new URLSearchParams(window.location.search);
 const id = parseInt(params.get("id"), 10);
-const API = "http://localhost:3001/destinos";
+const API = "http://localhost:3000/destinos";
 
 if (isNaN(id)) {
   document.getElementById("cidade").textContent = "Destino não encontrado";

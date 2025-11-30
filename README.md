@@ -9,15 +9,17 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Izabella Regina Elias Evangelista
+- Matricula: 901340
+- Proposta de projeto escolhida: 2 - Guia de Viagens
+- Breve descrição sobre seu projeto: Dicas de viagens para destinos nacionas, internacionais...
 
 **Print da tela com a implementação**
 
 << Coloque aqui uma breve explicação da implementação feita nessa etapa>>
 
-<<  COLOQUE A IMAGEM TELA 1 AQUI >>
+![alt text](image.png)
+Implementação de botão para acessar gráfico de Viagens.
 
-<<  COLOQUE A IMAGEM TELA 2 AQUI >>
+![alt text](image-1.png)
+Tela de gráfico de Viagens.
