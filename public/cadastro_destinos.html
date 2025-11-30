@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Cadastro de Destinos</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-primary bg-opacity-10">
+  <div class="container my-5">
+    <h1 id="titulo-pagina">Novo Destino</h1>
+    <form id="formDestino">
+      <div class="mb-3">
+        <label class="form-label">Título</label>
+        <input id="titulo" class="form-control" required>
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Conteúdo</label>
+        <textarea id="conteudo" class="form-control" required></textarea>
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Categoria</label>
+        <input id="categoria" class="form-control">
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Atrações (separadas por ;)</label>
+        <input id="atracoes" class="form-control" placeholder="Praia;Museu">
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Dicas (separadas por ;)</label>
+        <input id="dicas" class="form-control">
+      </div>
+      <div class="mb-3">
+        <label class="form-label">URL imagem (ex: img/rio.jpg)</label>
+        <input id="imagem" class="form-control" placeholder="img/exemplo.jpg" required>
+      </div>
+      <button class="btn btn-success" type="submit">Salvar</button>
+      <a href="index.html" class="btn btn-secondary">Cancelar</a>
+    </form>
+  </div>
+
+  <script src="js/cadastro.js"></script>
+</body>
+</html>

@@ -1,0 +1,129 @@
+{
+  "destinos": [
+    {
+      "id": "2",
+      "titulo": "Itacaré (BA)",
+      "conteudo": "Localizado no litoral sul da Bahia, Itacaré oferece praias paradisíacas, trilhas e cachoeiras, atraindo surfistas e amantes da natureza.",
+      "categoria": "Destinos Nacionais",
+      "atracoes": [
+        "Praia da Concha",
+        "Cachoeira do Tijuípe",
+        "Trilhas Ecológicas",
+        "Praia de Jeribucaçu",
+        "Centro Histórico"
+      ],
+      "dicas": [
+        "Explore as praias ao amanhecer;",
+        "Pratique surf nas melhores ondas da Bahia;",
+        "Faça trilhas guiadas com segurança;",
+        "Experimente a culinária típica baiana;",
+        "Respeite o meio ambiente e descarte o lixo corretamente."
+      ],
+      "imagem": "img/imagem_redimensionada_2.jpg"
+    },
+    {
+      "id": "3",
+      "titulo": "New York (US)",
+      "conteudo": "A cidade que nunca dorme oferece diversidade cultural, atrações icônicas e infinitas opções de entretenimento.",
+      "categoria": "Destinos Internacionais",
+      "atracoes": [
+        "Estátua da Liberdade",
+        "Times Square",
+        "Museu Metropolitano de Arte",
+        "Central Park",
+        "Empire State Building"
+      ],
+      "dicas": [
+        "Compre ingressos antecipados para atrações;",
+        "Use calçados confortáveis;",
+        "Explore bairros diversos como Brooklyn e Harlem;",
+        "Aproveite a gastronomia variada;",
+        "Utilize o metrô para se deslocar com rapidez."
+      ],
+      "imagem": "img/imagem_redimensionada_3.jpg"
+    },
+    {
+      "id": "4",
+      "titulo": "Gramado (RS)",
+      "conteudo": "Um dos destinos mais charmosos do Brasil, conhecido por sua arquitetura europeia, clima frio e atrações culturais.",
+      "categoria": "Destinos Nacionais",
+      "atracoes": [
+        "Lago Negro",
+        "Rua Coberta",
+        "Mini Mundo",
+        "Snowland",
+        "Natal Luz"
+      ],
+      "dicas": [
+        "Leve roupas de frio mesmo fora do inverno;",
+        "Experimente chocolates artesanais;",
+        "Reserve hotéis com antecedência em épocas de evento;",
+        "Conheça cidades vizinhas como Canela;",
+        "Aproveite os restaurantes temáticos."
+      ],
+      "imagem": "img/gramado.jpg"
+    },
+    {
+      "id": "5",
+      "titulo": "Paris (FR)",
+      "conteudo": "A capital francesa é símbolo de arte, romance e história, atraindo milhões de turistas todos os anos.",
+      "categoria": "Destinos Internacionais",
+      "atracoes": [
+        "Torre Eiffel",
+        "Museu do Louvre",
+        "Catedral de Notre-Dame",
+        "Arco do Triunfo",
+        "Rio Sena"
+      ],
+      "dicas": [
+        "Visite museus em horários alternativos para evitar filas;",
+        "Compre Paris Museum Pass;",
+        "Use metrô para se locomover;",
+        "Explore cafés e padarias tradicionais;",
+        "Caminhe pelo centro para aproveitar a arquitetura."
+      ],
+      "imagem": "img/paris.jpg"
+    },
+    {
+      "id": "aa73",
+      "titulo": "Rio de Janeiro",
+      "conteudo": "Cidade maravilhosa, cheia de atrações turísticas.",
+      "categoria": "Nacional",
+      "atracoes": [
+        "Cristo Redentor",
+        "Pão de Açúcar"
+      ],
+      "dicas": [
+        "Use protetor solar",
+        "Evite horários de pico"
+      ],
+      "imagem": "img/rio.jpg"
+    },
+    {
+      "id": "e9c8",
+      "titulo": "Barreirinhas",
+      "conteudo": "Cidade ribeirinha",
+      "categoria": "Destino Nacional",
+      "atracoes": [
+        "Rio Preguiças, Lençois Maranhenses"
+      ],
+      "dicas": [
+        "Leve protetor, chapéu"
+      ],
+      "imagem": "https://www.google.com/imgres?q=barreirinhas%20ma&imgurl=https%3A%2F%2Fbarreirinhasbrasil.com%2Fwp-content%2Fuploads%2F2023%2F05%2FBarreirinhas-Brasil-1st-img.jpg&imgrefurl=https%3A%2F%2Fbarreirinhasbrasil.com%2F&docid=0EjEzbRAcyjS7M&tbnid=VXfJ-bZAx0zsgM&vet=12ahUKEwj_q8ns35qRAxWlL7kGHbgWObwQM3oECBgQAA..i&w=1400&h=600&hcb=2&ved=2ahUKEwj_q8ns35qRAxWlL7kGHbgWObwQM3oECBgQAA"
+    },
+    {
+      "id": "808f",
+      "titulo": "gdhd",
+      "conteudo": "dfhdfx",
+      "categoria": "xfhxd",
+      "atracoes": [
+        "dxfhxd"
+      ],
+      "dicas": [
+        "dhdx"
+      ],
+      "imagem": "https://www.google.com/imgres?q=barreirinhas%20ma&imgurl=https%3A%2F%2Fbarreirinhasbrasil.com%2Fwp-content%2Fuploads%2F2023%2F05%2FBarreirinhas-Brasil-1st-img.jpg&imgrefurl=https%3A%2F%2Fbarreirinhasbrasil.com%2F&docid=0EjEzbRAcyjS7M&tbnid=VXfJ-bZAx0zsgM&vet=12ahUKEwj_q8ns35qRAxWlL7kGHbgWObwQM3oECBgQAA..i&w=1400&h=600&hcb=2&ved=2ahUKEwj_q8ns35qRAxWlL7kGHbgWObwQM3oECBgQAA"
+    }
+  ]
+}
